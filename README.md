@@ -1,8 +1,30 @@
 # desktop-voiceassistant
-a voice assistant that helps you through your voice
-this is a desktop assistant app that assists through voice  
-use any editors  mostly prefer vscode pycharm install the required modules and  you will get an error while instaling py audio file doenload it foem interenet and install the file
-you  will find a  code folder in that there  will be two files a ui file and jarvis python file  
+this is a voiceassistant for desktop which runs on windows operating system
+the steps need to develop a similar project 
+steps:
+->install python 3.5 version or above
+->then you need to install  editors like vs code pycharm community edition you can run it on anconda thats depends upon you
+->run python in editor to check weather it is working or not
+-> then install modules
+pyttsx3
+speechrecogintion
+pyautogui
+pyqt5
+wikepedia
+webbrowser
+opencv
+smtplib
+pyjokes
+pypdf2
+psutil
+tkinter
+winsound
+ssl
+then download the files which contains of two files jarvis.py and jarvis.ui file 
+run the jarvis.py file 
+
+
+
 
 FUNCTIONALITIES:
 1.It can send emails.
@@ -17,3 +39,5 @@ FUNCTIONALITIES:
 
 YOUTUBELINK:
 https://youtu.be/IKEXPDL0_5w
+
+thankyou:)
